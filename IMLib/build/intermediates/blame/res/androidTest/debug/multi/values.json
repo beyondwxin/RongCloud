@@ -1,0 +1,158 @@
+[
+    {
+        "outputFile": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 45,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 61,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 49,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 47,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 49,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 61,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 80,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 66,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 77,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 64,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 56,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "D:\\RongCloud\\RongCloud\\IMLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
