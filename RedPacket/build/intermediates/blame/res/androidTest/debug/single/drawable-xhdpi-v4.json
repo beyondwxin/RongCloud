@@ -48,12 +48,12 @@
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_ic_close.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_ic_alipay.png",
-        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_ic_alipay.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_105.png",
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_105.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_ic_alipay.png",
+        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_ic_alipay.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_bg_search_input.9.png",
@@ -176,12 +176,12 @@
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_308.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_pay_type_select.png",
-        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_pay_type_select.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_ic_hongbao_hover.png",
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_ic_hongbao_hover.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_pay_type_select.png",
+        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_pay_type_select.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_rmb.png",
@@ -192,12 +192,12 @@
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_ic_card.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\balance.png",
-        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\balance.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_302.png",
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_302.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\balance.png",
+        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\balance.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_ic_arrow.png",
@@ -212,12 +212,12 @@
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\open_rp.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_btn_close.png",
-        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_btn_close.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_102.png",
         "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_102.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\_btn_close.png",
+        "source": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\_btn_close.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\RedPacket\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\open_rp_1.png",

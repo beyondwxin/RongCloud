@@ -52,16 +52,16 @@
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_realtime_default_avatar.png"
     },
     {
+        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f356.png",
+        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f356.png"
+    },
+    {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_voice_sent_play2.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_voice_sent_play2.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f556.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f556.png"
-    },
-    {
-        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f356.png",
-        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f356.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f44a.png",
@@ -108,12 +108,12 @@
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_picsel_back_normal.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f339.png",
-        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f339.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_grid_image_default.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_grid_image_default.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f339.png",
+        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f339.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f47d.png",
@@ -256,12 +256,12 @@
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_plugin_location.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f62b.png",
-        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f62b.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_file.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_file.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f62b.png",
+        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f62b.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_no_right.9.png",
@@ -304,12 +304,12 @@
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_cs_unresolved_hover.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_loading.png",
-        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_loading.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_picture.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_picture.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_loading.png",
+        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_loading.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_audio_toggle.png",
@@ -352,12 +352,12 @@
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f46b.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f612.png",
-        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f612.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f61f.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f61f.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f612.png",
+        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f612.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_menu_trangle.png",
@@ -1008,12 +1008,12 @@
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\volume_1.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f615.png",
-        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f615.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f61c.png",
         "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f61c.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f615.png",
+        "source": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f615.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\Recognizer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_yes_hover.png",
