@@ -8,20 +8,20 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable\\rc_voip_speaker_selector.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_ic_star_selector.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_ic_star_selector.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_voip_camera_selector.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable\\rc_voip_camera_selector.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_an_voice_sent.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_an_voice_sent.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_ic_star_selector.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_ic_star_selector.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_item_list_selector.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_item_list_selector.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_an_voice_sent.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_an_voice_sent.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rc_send_toggle_selector.xml",

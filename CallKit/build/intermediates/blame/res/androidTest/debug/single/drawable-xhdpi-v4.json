@@ -100,16 +100,16 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_no.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_video_right.png",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_video_right.png"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_unread_count_bg.png",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_unread_count_bg.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_phone_normal.png",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ic_phone_normal.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_unread_count_bg.png",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_unread_count_bg.png"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_video_right.png",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_video_right.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_phone.png",
@@ -228,12 +228,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_voice_icon_right.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_disable_camera.png",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_disable_camera.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u23f0.png",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u23f0.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_disable_camera.png",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_disable_camera.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voice_icon_left.png",
@@ -324,12 +324,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ac_audio_file_icon.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f356.png",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f356.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_send_voice_three.png",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_send_voice_three.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f356.png",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f356.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f48d.png",
@@ -660,12 +660,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_realtime_default_avatar.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_location_marker.png",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_location_marker.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_file_icon_file.png",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_file_icon_file.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_location_marker.png",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_ext_location_marker.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_back_icon.png",
@@ -680,12 +680,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_image_default.png"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_btn_voice_normal.png",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_voice_normal.png"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f44a.png",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\u1f44a.png"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_btn_voice_normal.png",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable-xhdpi-v4\\rc_btn_voice_normal.png"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_disable_camera_hover.png",

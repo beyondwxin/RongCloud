@@ -40,28 +40,28 @@
         "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_an_voice_sent.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_dialog_ok_selector.xml",
-        "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_cs_group_dialog_ok_selector.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_menu_text_selector.xml",
+        "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_menu_text_selector.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_input.xml",
         "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_btn_input.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_menu_text_selector.xml",
-        "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_menu_text_selector.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_dialog_ok_selector.xml",
+        "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_cs_group_dialog_ok_selector.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_checkbox_selector.xml",
         "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_cs_group_checkbox_selector.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_files_selector.xml",
-        "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_ic_files_selector.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_switch_btn.xml",
         "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_switch_btn.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_files_selector.xml",
+        "source": "D:\\RongCloud\\RongCloud\\IMKit\\src\\main\\res\\drawable\\rc_ic_files_selector.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_cs_group_ok_text_selector.xml",

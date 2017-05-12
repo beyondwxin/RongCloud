@@ -20,12 +20,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ac_webview.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_dialog_popup_prompt_warning.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_dialog_popup_prompt_warning.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_message.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_message.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_dialog_popup_prompt_warning.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_dialog_popup_prompt_warning.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_dialog_alter.xml",
@@ -44,16 +44,16 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_list.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_image.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_fr_image.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_text_message_evaluate.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_text_message_evaluate.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ext_extension_bar.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ext_extension_bar.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_text_message_evaluate.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_text_message_evaluate.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_image.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_fr_image.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_text_message.xml",
@@ -96,12 +96,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ac_albums.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ext_emoji_grid_view.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ext_emoji_grid_view.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_voip_audio_call_user_info.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\src\\main\\res\\layout\\rc_voip_audio_call_user_info.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_ext_emoji_grid_view.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ext_emoji_grid_view.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_discussion_notification_message.xml",

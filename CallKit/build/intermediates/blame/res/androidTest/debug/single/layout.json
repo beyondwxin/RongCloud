@@ -36,12 +36,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_fr_file_list.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_image_message.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_image_message.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_dialog_popup_prompt_warning.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_dialog_popup_prompt_warning.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_image_message.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_image_message.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_voip_contact_container.xml",
@@ -52,16 +52,16 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_conversation_notification_container.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_mention_list_item.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_mention_list_item.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_fr_public_service_sub_list.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_fr_public_service_sub_list.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_dialog_popup_options.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_dialog_popup_options.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_fr_public_service_sub_list.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_fr_public_service_sub_list.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_mention_list_item.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_mention_list_item.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_picsel_original.xml",
@@ -100,12 +100,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ext_input_edit_text.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_base_conversation.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_base_conversation.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_app_service_conversation.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_app_service_conversation.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_base_conversation.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_item_base_conversation.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_fr_image.xml",
@@ -144,16 +144,16 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_ext_menu_container.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_cs_alert_human_evaluation.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_cs_alert_human_evaluation.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_cs_single_choice_layout.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_cs_single_choice_layout.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_voip_float_box.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_voip_float_box.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_cs_single_choice_layout.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_cs_single_choice_layout.xml"
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_cs_alert_human_evaluation.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\layout\\rc_cs_alert_human_evaluation.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_ac_file_download.xml",

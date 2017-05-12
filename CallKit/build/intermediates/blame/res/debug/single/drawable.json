@@ -40,12 +40,12 @@
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_cs_group_checkbox_selector.xml"
     },
     {
-        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_audio_answer_selector.xml",
-        "source": "D:\\RongCloud\\RongCloud\\CallKit\\src\\main\\res\\drawable\\rc_voip_audio_answer_selector.xml"
-    },
-    {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voice_toggle_selector.xml",
         "source": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\exploded-aar\\RongCloud\\IMKit\\unspecified\\res\\drawable\\rc_voice_toggle_selector.xml"
+    },
+    {
+        "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_voip_audio_answer_selector.xml",
+        "source": "D:\\RongCloud\\RongCloud\\CallKit\\src\\main\\res\\drawable\\rc_voip_audio_answer_selector.xml"
     },
     {
         "merged": "D:\\RongCloud\\RongCloud\\CallKit\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_yes_selector.xml",
