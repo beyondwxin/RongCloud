@@ -89,7 +89,7 @@ import io.rong.push.common.RongException;
                  *
                  * context上下文
                  *
-                 * 只有两个进程需要初始化，主进程和 push 进程
+                 * 只有两个进程需要初始化，主进程和  push 进程
                  */
                 //RongIM.setServerInfo("nav.cn.ronghub.com", "img.cn.ronghub.com");
                 RongIM.init(this);
